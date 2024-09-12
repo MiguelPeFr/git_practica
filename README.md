@@ -1,4 +1,4 @@
-#RESPUESTAS
+# RESPUESTAS
 1. git reset --hard HEAD~1
 	Me permite deshacer el último commit y lo que había en mi working copy de manera que todo queda como antes. 	Nuestro Staging area queda vacío.
 2. git reflog + git reset --hard <id>
